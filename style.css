@@ -1,22 +1,89 @@
-.{
-  padding: 0;
-  margin: 0;
+.box1
+{
+    margin-left: 300px;
+    text-decoration: none;
+    display: flex;
 }
-<!--
-body {
-  height: 900px;
-  width: 900px;
-  background-color: gray;
-  padding-left: 200px;
-  margin-left: 100px;
-  padding: ;
+.hi
+{
+    background-color: rgb(193, 206, 210);
+    height: 100px;
+    width: 1000px;
+    margin-left: 300px;
+    color: blue;
+    padding-left: 10px;
 }
-h3 {
-  margin-left: 273px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+.h11
+{
+    margin-left: 300px;
+    
 }
-img {
-  height: 100px;
-  width: 100x;
-}-->
+.h22
+{
+    background-color: yellow;
+    height: 30px;
+    width: 40px;
+    margin-left: 1280px;
+    margin-top: -70px;
+    padding-left: 14px;
+    
+}
+.h33
+{
+    margin-top: -2PX;
+    margin-left: 300px;
+}
+.img1
+{
+    margin-left: 300px;
+}
+.img2
+{
+    margin-left: 300px;
+   
+}
+.h44
+{
+    margin-left: 300px;
+    font-size: larger;
+    font-weight: normal;
+    
+}
+.h55
+{
+    font-size: larger;
+    margin-left: 300px;
+}
+.c1
+{
+     font-size: larger;
+    margin-left: 300px;
+    
+}
+.c2
+{
+     font-size: larger;
+    margin-left: 300px;
+}
+.c3
+{
+    background-color: aliceblue;
+    margin-left: 300px;
+    height: 700px;
+    width: 500px;
+    margin-top: 50px;
+}
+.h66
+{
+    margin-left: 170px;
+    font-size: larger;
+    margin-top: 40px;
+}
+.nav1
+{
+    padding-top: -20px;
+     margin-left: 150px;
+    
+    }
+
+    
