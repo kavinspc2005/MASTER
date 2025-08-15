@@ -1,4 +1,6 @@
-let r=prompt("enter the radius");
-v=(4/3)*3.14*r*r*r;
-a=4*3.14*r*r;
-console.log(v,"is ",a);
+let a = [1, 2, 3];
+sum = 1;
+a.forEach((value, index) => {
+  a[index] = value + 1;
+});
+console.log(a);

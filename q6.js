@@ -1,6 +1,14 @@
-let a=prompt("enter the mark a");
-let b=prompt("enter the mark b");
-let c=prompt("enter the mark c");
-d=a+b+c;
-e=a+b+c/3
-console.log(e,"total is",d)
+let users = [
+  { name: "Alice", age: 25 },
+  { name: "Bob", age: 30 },
+  { name: "Charlie", age: 22 },
+];
+
+let IdToupdate = 2;
+
+users.forEach((users) => {
+  if (users.age) {
+    users.age += 1;
+  }
+});
+console.log(users);

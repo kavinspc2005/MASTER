@@ -1,6 +1,7 @@
-let n = parseInt(prompt("Enter how many odd numbers to sum:"));
-let sum = 0;
-for (let i = 1; i <= (2 * n - 1); i += 2) {
-    sum += i;
-}
-console.log(sum)
+let a = [1, -2, 3, -4, 5];
+
+a.forEach((vale, index) => {
+  a[1] = 2;
+  a[3] = 4;
+});
+console.log(a);
